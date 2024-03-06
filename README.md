@@ -1,5 +1,4 @@
 # scRNAscATACpipe
-# scToxoplasmaCDC
 
 ## This page provides instructions for running statistical analysis on scRNA-Seq and scATA-Seq data of replicating tachyzoites. The analysis is as follows:
 
